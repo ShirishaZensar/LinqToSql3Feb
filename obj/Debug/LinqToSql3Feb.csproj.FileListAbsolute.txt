@@ -1,0 +1,10 @@
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\bin\Debug\LinqToSql3Feb.exe.config
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\bin\Debug\LinqToSql3Feb.exe
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\bin\Debug\LinqToSql3Feb.pdb
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.csprojAssemblyReference.cache
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.Properties.Resources.resources
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.csproj.GenerateResource.cache
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.csproj.CoreCompileInputs.cache
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.exe
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.pdb
+D:\.NetBatch2021\ConsoleApp\FebruaryWorkList\Work3Feb\LinqToSql3Feb\obj\Debug\LinqToSql3Feb.Form1.resources
